@@ -4,7 +4,7 @@ A portfolio-ready Python workflow that turns fragmented monthly Excel inputs int
 
 > **Public-safe case study:** the names, amounts and business scenarios in the downloadable package are synthetic and intended only to demonstrate the workflow. This repository does not reproduce confidential employer data or production systems.
 
-[View the live case study](https://tuankhoi2411.github.io/automation/monthly-reporting-pipeline/) · [Download the complete sample package](downloads/Monthly%20report.zip)
+[View the live case study](https://tuankhoi2411.github.io/automation/monthly-reporting-pipeline/) · **[Download the Python source](https://raw.githubusercontent.com/TuanKhoi2411/python-monthly-reporting-automation/main/Monthly_report_Final.py)** · [Download the complete sample package](downloads/Monthly%20report.zip)
 
 ![Generated KPI report](assets/monthly-reporting-kpi-poster.png)
 
